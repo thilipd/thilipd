@@ -75,9 +75,9 @@
             alt="react" width="40" height="40" /> </a> </p>
             <br/>
 
-<p><img align="left"
+<p><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=thilipd&show_icons=true&locale=en&layout=compact"
         alt="thilipd" /></p> <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilipd&show_icons=true&locale=en"
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=thilipd&show_icons=true&locale=en"
         alt="thilipd" /></p> <br/>
